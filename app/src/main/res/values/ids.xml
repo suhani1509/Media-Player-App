@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnRestart" type="id" />
+    <item name="videoView" type="id" />
+    <item name="btnStop" type="id" />
+    <item name="btnPause" type="id" />
+    <item name="btnOpenFile" type="id" />
+    <item name="btnOpenURL" type="id" />
+    <item name="btnPlay" type="id" />
+</resources>
